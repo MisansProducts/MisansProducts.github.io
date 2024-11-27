@@ -1,0 +1,74 @@
+/* Body */
+body
+{
+	background-color: black;
+	margin: auto;
+}
+
+/* Warning Heading */
+.warning_heading {
+	color: gray;
+	font-size: 36px;
+	font-family: "Bender";
+	margin: auto;
+	text-align: center;
+}
+
+/* MisansProducts Image */
+.misansproducts_image
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+
+/* Fonts */
+/* Friendly Schoolmates */
+@font-face
+{
+	src: url("fonts/Friendly Schoolmates.otf");
+	font-family: Friendly Schoolmates;
+}
+
+/* Highstories */
+@font-face
+{
+	src: url("fonts/HIGHSTORIES.ttf");
+	font-family: Highstories;
+}
+
+/* Bender */
+@font-face
+{
+	src: url("fonts/Jovanny Lemonad - Bender.otf");
+	font-family: Bender;
+}
+
+/* Mellennia */
+@font-face
+{
+	src: url("fonts/MILLENNIA.ttf");
+	font-family: Millennia;
+}
+
+/* Miss Ellen */
+@font-face
+{
+	src: url("fonts/Miss Ellen.ttf");
+	font-family: Miss Ellen;
+}
+
+/* Mistertwisted */
+@font-face
+{
+	src: url("fonts/mistertwisted.ttf");
+	font-family: Mistertwisted;
+}
+
+/* Xarrovv */
+@font-face
+{
+	src: url("fonts/Xarrovv.otf");
+	font-family: Xarrovv;
+}
